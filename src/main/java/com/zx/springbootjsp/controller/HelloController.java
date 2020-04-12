@@ -3,6 +3,7 @@ package com.zx.springbootjsp.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+
 // 对比两方法，一个使用注解请求，一个使用jsp访问
 @Controller
 public class HelloController {
